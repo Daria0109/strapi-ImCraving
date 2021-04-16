@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "main_pages",
+  "info": {
+    "name": "MainPage",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "IntroduceSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.section",
+      "required": true
+    },
+    "Mision": {
+      "type": "component",
+      "repeatable": true,
+      "component": "section.section"
+    },
+    "Explore": {
+      "type": "component",
+      "repeatable": true,
+      "component": "section.section"
+    },
+    "Partnership": {
+      "type": "component",
+      "repeatable": true,
+      "component": "section.section"
+    }
+  }
+}
