@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_answer_answers",
+  "info": {
+    "name": "Answer",
+    "icon": "arrow-circle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "next_question": {
+      "type": "string"
+    }
+  }
+}

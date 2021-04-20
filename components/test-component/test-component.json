@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_test_component_test_components",
+  "info": {
+    "name": "test_component",
+    "icon": "allergies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "next_question_for_answer_1": {
+      "type": "string"
+    },
+    "next_question_for_answer_2": {
+      "type": "string"
+    },
+    "next_question_for_answer_3": {
+      "type": "string"
+    },
+    "question": {
+      "model": "question"
+    },
+    "from_question": {
+      "type": "string"
+    }
+  }
+}

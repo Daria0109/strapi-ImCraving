@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/quiz",
+      "handler": "quiz.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/quiz",
+      "handler": "quiz.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/quiz",
+      "handler": "quiz.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
