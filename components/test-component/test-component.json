@@ -21,6 +21,9 @@
     },
     "from_question": {
       "type": "string"
+    },
+    "from_answer": {
+      "type": "integer"
     }
   }
 }
