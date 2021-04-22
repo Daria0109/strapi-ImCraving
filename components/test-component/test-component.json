@@ -25,8 +25,14 @@
     "from_answer": {
       "type": "integer"
     },
-    "test_image": {
-      "model": "test-images"
+    "imgID_for_answer_1": {
+      "type": "string"
+    },
+    "imgID_for_answer_2": {
+      "type": "string"
+    },
+    "imgID_for_answer_3": {
+      "type": "string"
     }
   }
 }
