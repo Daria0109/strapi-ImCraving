@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test_images",
+  "info": {
+    "name": "TestImages",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Image": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "imageId": {
+      "type": "integer"
+    },
+    "answer_text": {
+      "type": "string"
+    }
+  }
+}
