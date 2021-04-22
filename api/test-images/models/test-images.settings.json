@@ -27,6 +27,9 @@
     },
     "answer_text": {
       "type": "string"
+    },
+    "resultname": {
+      "type": "string"
     }
   }
 }

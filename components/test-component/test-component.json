@@ -24,6 +24,9 @@
     },
     "from_answer": {
       "type": "integer"
+    },
+    "test_image": {
+      "model": "test-images"
     }
   }
 }
