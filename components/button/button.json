@@ -2,11 +2,12 @@
   "collectionName": "components_button_buttons",
   "info": {
     "name": "Button",
-    "icon": "arrow-alt-circle-right"
+    "icon": "arrow-alt-circle-right",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "title": {
+    "text": {
       "type": "string",
       "required": true
     },

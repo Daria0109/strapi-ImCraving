@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_buttons",
+  "info": {
+    "name": "Button",
+    "icon": "bug"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

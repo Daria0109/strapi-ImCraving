@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_mission_headings",
+  "info": {
+    "name": "Mission_heading",
+    "icon": "air-freshener"
+  },
+  "options": {},
+  "attributes": {
+    "text_small": {
+      "type": "string"
+    },
+    "text_main": {
+      "type": "string"
+    }
+  }
+}

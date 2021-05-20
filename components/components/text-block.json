@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_text_blocks",
+  "info": {
+    "name": "Text_block",
+    "icon": "book-dead"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}

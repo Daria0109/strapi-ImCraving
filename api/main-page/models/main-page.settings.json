@@ -11,26 +11,30 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "IntroduceSection": {
+    "Navigation_and_footer": {
       "type": "component",
       "repeatable": false,
-      "component": "section.section",
-      "required": true
+      "component": "section.navigation-and-footer"
     },
-    "Mision": {
+    "Hero_section": {
       "type": "component",
-      "repeatable": true,
-      "component": "section.section"
+      "repeatable": false,
+      "component": "section.hero-section"
     },
-    "Explore": {
+    "Mission_section": {
       "type": "component",
-      "repeatable": true,
-      "component": "section.section"
+      "repeatable": false,
+      "component": "section.mission-section"
     },
-    "Partnership": {
+    "Explore_section": {
       "type": "component",
-      "repeatable": true,
-      "component": "section.section"
+      "repeatable": false,
+      "component": "section.explore-section"
+    },
+    "Partnership_section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.partnership-section"
     }
   }
 }

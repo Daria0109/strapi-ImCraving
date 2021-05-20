@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_section_mission_sections",
+  "info": {
+    "name": "Mission_section",
+    "icon": "bars",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.mission-heading"
+    },
+    "Labels": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.labels"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button.button"
+    },
+    "Images": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.mission-images"
+    }
+  }
+}

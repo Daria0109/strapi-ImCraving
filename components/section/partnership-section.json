@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_section_partnership_sections",
+  "info": {
+    "name": "Partnership_section",
+    "icon": "broadcast-tower"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.mission-heading"
+    },
+    "Get_Margins_back": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.text-block"
+    },
+    "Word_on_the_Street": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.text-block"
+    },
+    "True_Partnership": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.text-block"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "button.button"
+    },
+    "Images": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.logo"
+    }
+  }
+}

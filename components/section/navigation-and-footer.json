@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_section_navigation_and_footers",
+  "info": {
+    "name": "Navigation&footer",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "Logo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.logo"
+    },
+    "Test": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.test"
+    },
+    "Contact_us": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.test"
+    }
+  }
+}

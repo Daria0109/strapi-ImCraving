@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_components_headings",
+  "info": {
+    "name": "Heading",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

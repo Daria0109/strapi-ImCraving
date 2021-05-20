@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_section_hero_sections",
+  "info": {
+    "name": "Hero_section",
+    "icon": "bacon"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.heading"
+    },
+    "Subhead": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.heading"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.button"
+    },
+    "Scroll": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.heading"
+    },
+    "Images": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.images"
+    }
+  }
+}
